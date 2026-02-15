@@ -1,0 +1,5 @@
+pypdf
+python-dotenv
+requests
+faiss-cpu
+numpy
