@@ -1,0 +1,31 @@
+================ DDR REPORT ================
+
+1. Property Issue Summary
+The inspection score is 85.71%.
+Flagged items: 1.
+
+2. Area-wise Observations
+- Dampness observed in bedroom area
+- Tile hollowness observed in common bathroom
+
+3. Probable Root Cause
+- Possible water seepage or plumbing leakage.
+- Improper tile installation or adhesive failure.
+
+4. Severity Assessment
+Severity Level: Moderate
+- Inspection report shows flagged items.
+- Dampness may indicate water seepage risk.
+- Property age suggests possible wear and tear factors.
+
+5. Recommended Actions
+- Inspect plumbing lines and waterproofing in affected area.
+- Re-fix or replace affected tiles after surface inspection.
+
+6. Additional Notes
+Thermal images were attached to the report.
+
+7. Missing or Unclear Information
+- Structured thermal temperature data: Not Available
+
+============================================
