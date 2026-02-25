@@ -1,4 +1,4 @@
-\# AI DDR Builder
+AI DDR Builder
 
 
 
@@ -6,7 +6,7 @@ An AI-powered DDR (Detailed Diagnostic Report) generator that processes inspecti
 
 
 
-\## 🚀 Project Overview
+🚀 Project Overview
 
 
 
@@ -38,7 +38,7 @@ The system avoids hallucination and only uses information present in the documen
 
 
 
-\## 🧠 Workflow Architecture
+ Workflow Architecture
 
 
 
@@ -58,11 +58,11 @@ The system avoids hallucination and only uses information present in the documen
 
 
 
----
 
 
 
-\## 📄 DDR Output Structure
+
+ DDR Output Structure
 
 
 
@@ -86,11 +86,10 @@ The generated report contains:
 
 
 
----
 
 
 
-\## ⚠️ Handling Limitations
+ Handling Limitations
 
 
 
@@ -104,33 +103,10 @@ The generated report contains:
 
 
 
----
 
 
 
-\## 🛠 Tech Stack
-
-
-
-\- Python
-
-\- pypdf
-
-\- Regex-based extraction
-
-\- Rule-based reasoning engine
-
-\- Modular project architecture
-
-
-
----
-
-
-
-\## 📌 Key Design Principles
-
-
+ Key Design Principles
 
 \- No hallucinated data
 
@@ -144,11 +120,9 @@ The generated report contains:
 
 
 
----
 
 
 
-\## 📂 Project Structure
 
 
 
